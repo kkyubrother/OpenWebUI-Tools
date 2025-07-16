@@ -1,19 +1,19 @@
 # OpenWebUI-Tools
 
-OpenWebUI-Tools is a comprehensive toolkit designed to enhance the capabilities of OpenWebUI. This collection includes powerful tools for web scraping, knowledge querying, web searching, and YouTube video analysis, as well as an advanced Sequential Multi-Agent Reasoning Technique (SMART) system.
+OpenWebUI-Tools는 OpenWebUI의 기능을 향상시키기 위해 설계된 종합적인 툴킷입니다. 이 컬렉션에는 웹 스크래핑, 지식 쿼리, 웹 검색, YouTube 동영상 분석을 위한 강력한 도구와 고급 순차적 다중 에이전트 추론 기법(SMART) 시스템이 포함되어 있습니다.
 
-The SMART system elevates the project by providing a sophisticated multi-agent approach to handling complex queries and tasks. It combines planning, reasoning, tool use, and user interaction in a sequential pipeline, allowing for more nuanced and effective responses to user inputs.
+SMART 시스템은 복잡한 쿼리와 작업을 처리하기 위한 정교한 다중 에이전트 접근 방식을 제공하여 프로젝트의 수준을 높입니다. 계획, 추론, 도구 사용, 사용자 상호 작용을 순차적인 파이프라인으로 결합하여 사용자 입력에 보다 세심하고 효과적으로 대응할 수 있습니다.
 
-This toolkit aims to provide developers with a versatile set of resources to build more intelligent and capable web-based AI applications.
+이 툴킷은 개발자에게 보다 지능적이고 성능이 뛰어난 웹 기반 AI 애플리케이션을 구축할 수 있는 다양한 리소스를 제공하는 것을 목표로 합니다.
 
 ## ReAct 
 
 ---
-**Install instructions:**
-- Simply copy the `smart.py` code into a new function in OpenWebUI.
-- To create a new fuction go to `Workspaces -> Functions -> New Function (+ Icon)`
+**설치 방법:**
+- `smart.py` 코드를 OpenWebUI의 새 함수에 복사합니다.
+- `Workspaces -> Functions -> New Function (+ 아이콘)`로 새 함수를 생성하세요.
 
-NOTE: Some implemented tools need non avalible external APIs. 
+참고: 일부 구현된 도구에는 사용할 수 없는 외부 API가 필요합니다.
 
 ---
 
